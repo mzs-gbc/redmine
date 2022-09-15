@@ -5,3 +5,4 @@ Redmine is a flexible project management web application written using Ruby on R
 More details can be found in the doc directory or on the official website http://www.redmine.org
 
 Actually this is the test for git fork, push, pull request etc
+Read me 수정수정
