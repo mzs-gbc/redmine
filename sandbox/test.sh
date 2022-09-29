@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo "TESTING...."
-echo "TESTING is Done"
+echo "TESTING is Done!"
