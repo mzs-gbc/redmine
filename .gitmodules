@@ -1,3 +1,0 @@
-[submodule "plugins/redmine_omniauth_google"]
-	path = plugins/redmine_omniauth_google
-	url = https://github.com/mzs-gbc/plugins.git
