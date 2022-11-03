@@ -1,0 +1,9 @@
+[submodule "plugins/redmine_messenger"]
+	path = plugins/redmine_messenger
+	url = https://github.com/nyoung08/redmine_messenger.git
+[submodule "plugins/redmine_omniauth_google"]
+	path = plugins/redmine_omniauth_google
+	url = https://github.com/nyoung08/redmine_omniauth_google.git
+[submodule "plugins/redmine_dashboard"]
+	path = plugins/redmine_dashboard
+	url = https://github.com/nyoung08/redmine_dashboard.git
